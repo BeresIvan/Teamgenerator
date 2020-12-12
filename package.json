@@ -1,0 +1,30 @@
+{
+  "name": "teamgenerator",
+  "version": "1.0.0",
+  "description": "Teamgenerator",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "dependencies": {
+    "global": "^4.4.0",
+    "inquirer": "^7.3.3",
+    "jest": "^26.6.3",
+    "require": "^2.4.20"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BeresIvan/Teamgenerator.git"
+  },
+  "author": "ivanberes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BeresIvan/Teamgenerator/issues"
+  },
+  "homepage": "https://github.com/BeresIvan/Teamgenerator#readme"
+}
