@@ -42,7 +42,7 @@ The project was created by using:
 * [Visual Studio Code](https://code.visualstudio.com/)
 * [Git Bash](https://gitforwindows.org/index.html)
 * [GitHub](https://github.com/join)
-* [Bootstrap]https://getbootstrap.com/
+* [Bootstrap](https://getbootstrap.com/)
 * [Google Fonts](https://fonts.google.com/)
 * [Moment.js](https://momentjs.com)
 * [Fontawesome](https://fontawesome.com/)
